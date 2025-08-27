@@ -68,11 +68,15 @@ esp-now-esp32-esp8266-communication/
 
 ## 📸 Screenshots / Demo
 
-# <div><img src="esp32-sender.sender" alt="Screenshot" /></div>
-# <div><img src="esp8266-recieve.png" alt="Screenshot" /></div>
+### Single
+
+# <div><img src="esp32-send.png" alt="Screenshot" /></div>
+# <div><img src="esp8266-recive.png" alt="Screenshot" /></div>
+
+### Dual
 
 # <div><img src="esp32-dual.png" alt="Screenshot" /></div>
-# <div><img src="eap8266-dual.png" alt="Screenshot" /></div>
+# <div><img src="esp8266-dual.png" alt="Screenshot" /></div>
 
 ---
 
