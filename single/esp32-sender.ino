@@ -2,7 +2,7 @@
 #include <esp_now.h>
 
 // Receiver MAC address (replace with your ESP8266’s MAC)
-uint8_t receiverMAC[] = {0xCC, 0x50, 0xE3, 0x6B, 0x9C, 0x0F};
+uint8_t receiverMAC[] = {0x00, 0x00, 0x00, 0x00, 0x00, 0x00}; // Replace your mac address
 
 // Callback when data is sent
 void OnDataSent(const uint8_t *mac_addr, esp_now_send_status_t status) {
