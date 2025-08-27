@@ -68,8 +68,11 @@ esp-now-esp32-esp8266-communication/
 
 ## 📸 Screenshots / Demo
 
-- You may see MAC addresses displayed in Serial Monitor.  
-- ⚠️ If uploading screenshots to GitHub, you can **blur/remove MAC addresses** for privacy (optional).
+# <div><img src="esp32-sender.sender" alt="Screenshot" /></div>
+# <div><img src="esp8266-recieve.png" alt="Screenshot" /></div>
+
+# <div><img src="esp32-dual.png" alt="Screenshot" /></div>
+# <div><img src="eap8266-dual.png" alt="Screenshot" /></div>
 
 ---
 
