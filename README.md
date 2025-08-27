@@ -44,6 +44,8 @@ This repository contains two working implementations of **ESP-NOW communication*
 ---
 
 ## 📂 Repository Structure
+
+```
 esp-now-esp32-esp8266-communication/
 │── README.md
 │── mac.ino
@@ -59,7 +61,7 @@ esp-now-esp32-esp8266-communication/
 └── dual/
     ├── esp32-sender.ino
     └── esp8266-receiver.ino
-
+```
 
 
 ---
