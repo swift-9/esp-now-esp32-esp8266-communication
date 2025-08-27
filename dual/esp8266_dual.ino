@@ -2,7 +2,7 @@
 #include <espnow.h>
 
 // ESP32 MAC address
-uint8_t peerMac[] = {0x68, 0x25, 0xDD, 0x32, 0x0F, 0x7C};
+uint8_t peerMac[] = {0x00, 0x00, 0x00, 0x00, 0x00, 0x00}; // Replace your mac address
 
 void OnDataSent(uint8_t *mac_addr, uint8_t sendStatus) {
   Serial.printf("Sent to Esp32 | Status: %s\n",
